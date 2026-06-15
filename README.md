@@ -4,12 +4,12 @@ WordPress & WooCommerce Developer from Romania.
 
 ## What I do
 
-- Custom WordPress development
-- WooCommerce integrations
-- Custom plugins
-- Performance optimization
-- Technical SEO
-- Astro websites
+- Custom WordPress & WooCommerce development
+- Business websites and e-commerce platforms
+- Custom plugins and integrations
+- Performance optimization and technical SEO
+- Cloudflare and hosting infrastructure
+- AI-assisted website deployment workflows
 
 ## Experience
 
