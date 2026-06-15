@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Alexandru 👋
 
-<!--
-**alexandrubala/alexandrubala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+WordPress & WooCommerce Developer from Romania.
 
-Here are some ideas to get you started:
+## What I do
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Custom WordPress development
+- WooCommerce integrations
+- Custom plugins
+- Performance optimization
+- Technical SEO
+- Astro websites
+
+## Experience
+
+- 200+ websites delivered
+- Working with WordPress since 2016
+
+## Website
+
+🌐 https://xplication.ro
+
+## LinkedIn
+
+💼 https://www.linkedin.com/in/alexandru-bala/
